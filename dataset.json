@@ -1,0 +1,44 @@
+[
+    {"instruction": "the insturctions",
+     "input": "the input",
+     "output": "the output",
+     "examples": [
+         {
+             "input": "example input",
+             "output": "example output"
+         }
+     ],
+     "metadata": {
+         "author": "author name",
+         "date": "2023-10-01"
+     }
+    },
+    {"instruction": "the insturctions",
+     "input": "the input",
+     "output": "the output",
+     "examples": [
+         {
+             "input": "example input",
+             "output": "example output"
+         }
+     ],
+     "metadata": {
+         "author": "author name",
+         "date": "2023-10-01"
+     }      
+    },       
+    {"instruction": "the insturctions",
+     "input": "the input",
+     "output": "the output",
+     "examples": [
+         {
+             "input": "example input",
+             "output": "example output"
+         }
+     ],
+     "metadata": {
+         "author": "author name",
+         "date": "2023-10-01"
+     }      
+    }
+]
